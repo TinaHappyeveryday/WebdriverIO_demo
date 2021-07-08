@@ -1,6 +1,7 @@
 ## Install
 
-cnpm i/yarn
+cnpm i yarn
+yarn install
 
 ## Usage
 
